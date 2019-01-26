@@ -89,6 +89,7 @@ HelloWorld.xlsx
 
 
 # NPM ignore
+.vscode/
 examples/
 docs/
 src/dotnet/OutOfProcServer/bin/
