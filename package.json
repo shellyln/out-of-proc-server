@@ -1,0 +1,42 @@
+{
+  "name": "out-of-proc-server",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Out-of-proc-server (+ gRPC) provides interoperability between Node.js and .NET framework.",
+  "keywords": [
+    "gRPC",
+    "dotnet",
+    ".NET",
+    "interop",
+    "distributed"
+  ],
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "engines": {
+    "node": ">=10.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "eslint": "^5.12.1",
+    "tslint": "^5.12.1",
+    "typescript": "^3.2.4"
+  },
+  "scripts": {
+    "lint": "eslint index.js src/node/**/*.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "author": "shellyln",
+  "homepage": "https://shellyln.github.io/",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shellyln/out-of-proc-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shellyln/out-of-proc-server/issues"
+  }
+}
