@@ -87,6 +87,9 @@ build/Release
 #
 HelloWorld.xlsx
 
+
+# NPM ignore
 examples/
 docs/
-
+src/dotnet/OutOfProcServer/bin/
+src/dotnet/OutOfProcServer/obj/
