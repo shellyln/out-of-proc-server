@@ -40,7 +40,7 @@ $ npm install out-of-proc-server --save
 
 ## Usage
 
-See [examples](./examples).
+See [examples](https://github.com/shellyln/out-of-proc-server/tree/master/examples).
 
 
 ---
@@ -170,14 +170,14 @@ public Notifier Shutdown();
 
 ### Graceful shutdown
 
-![Graceful](docs/graceful.svg)
+![Graceful](https://raw.githubusercontent.com/shellyln/out-of-proc-server/master/docs/graceful.svg?sanitize=true)
 
 
 
 
 ### Unexpected shutdown
 
-![Unexpected](docs/unexpected.svg)
+![Unexpected](https://raw.githubusercontent.com/shellyln/out-of-proc-server/master/docs/unexpected.svg?sanitize=true)
 
 
 ---
