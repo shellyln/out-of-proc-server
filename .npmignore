@@ -15,15 +15,27 @@ project.lock.json
 
 # Build results
 [Dd]ebug/
+debug/
+Debug/
 [Dd]ebugPublic/
+debugPublic/
+DebugPublic/
 [Rr]elease/
+release/
+Release/
 [Rr]eleases/
+releases/
+Releases/
 x64/
 x86/
 build/
 bld/
 [Bb]in/
+bin/
+Bin/
 [Oo]bj/
+obj/
+Obj/
 msbuild.log
 msbuild.err
 msbuild.wrn
@@ -77,3 +89,4 @@ HelloWorld.xlsx
 
 examples/
 docs/
+
