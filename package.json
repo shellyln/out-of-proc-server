@@ -1,7 +1,7 @@
 {
   "name": "out-of-proc-server",
   "private": false,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Out-of-proc-server (+ gRPC) provides interoperability between Node.js and .NET framework.",
   "keywords": [
     "gRPC",
@@ -11,10 +11,6 @@
     "distributed"
   ],
   "main": "index.js",
-  "directories": {
-    "doc": "docs",
-    "example": "examples"
-  },
   "engines": {
     "node": ">=10.0"
   },
