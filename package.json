@@ -11,6 +11,8 @@
     "distributed"
   ],
   "main": "index.js",
+  "types": "index.d.ts",
+  "typings": "index.d.ts",
   "engines": {
     "node": ">=10.0"
   },

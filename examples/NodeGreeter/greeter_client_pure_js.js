@@ -65,7 +65,7 @@ function main() {
             await server.shutdown();
             console.log('gRPC Node Client: Exit');
         } catch (e) {
-            console.log('gRPC Node Client: Error:' + e.messages);
+            console.log('gRPC Node Client: Error:' + e.message);
             process.exit(-1);
         }
     })();
